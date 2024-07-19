@@ -62,7 +62,8 @@ reinforcement-learning-assignment/
 │
 ├── a2q1.ipynb
 ├── a2q2v2.ipynb
-└── rl-a2.pdf
+├── rl-a2.pdf
+└── images
 ```
 
 
@@ -71,5 +72,5 @@ reinforcement-learning-assignment/
 To reproduce the results:
 
 1. **Set up the environment:** Ensure you have all the prerequisites installed.
-2. **Run the notebooks:** Follow the steps mentioned in the "Instructions to Run the Notebooks" section for each part.
+2. **Run the notebooks:** Follow the steps mentioned in the [`[Instructions to Run the Notebooks](#instructions-to-run-the-notebooks)`]() section for each part.
 3. **Verify outputs:** Check the generated plots and values to match them with the expected results as described in the assignment PDF.
